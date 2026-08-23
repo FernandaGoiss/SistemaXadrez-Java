@@ -1,18 +1,20 @@
-## Getting Started
+# ♟️ Jogo de Xadrez em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto de **Jogo de Xadrez desenvolvido em Java**, baseado no curso da Udemy de **Nelio Alves**.
 
-## Folder Structure
+O projeto está sendo utilizado para fins de **estudo da linguagem Java** e como parte do trabalho da disciplina **Conceitos de Linguagem de Programação**.
 
-The workspace contains two folders by default, where:
+## 🛠️ Tecnologias
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Java
+* JDK
+* Visual Studio Code
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📚 Objetivos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Praticar Programação Orientada a Objetos;
+* Compreender a estrutura e funcionamento de um projeto Java;
+* Analisar conceitos da linguagem estudados na disciplina;
+* Aprimorar os conhecimentos em Java.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> **Observação:** O código é baseado no projeto desenvolvido no curso da Udemy e está sendo utilizado para fins educacionais.
