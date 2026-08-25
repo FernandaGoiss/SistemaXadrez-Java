@@ -7,4 +7,5 @@ public class Programa {
         PartidaDeXadrez partida = new PartidaDeXadrez();
         InterfaceUsuario.imprimirTabuleiro(partida.getPecas());
     }
+    
 }
